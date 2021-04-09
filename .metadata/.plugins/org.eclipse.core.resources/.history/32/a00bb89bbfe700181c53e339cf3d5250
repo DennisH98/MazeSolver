@@ -1,0 +1,9 @@
+
+public class Cell {
+
+	int NorthWall;
+	int EastWall;
+	int SouthWall;
+	int WestWall;
+	int visited; //not visited =0
+}
